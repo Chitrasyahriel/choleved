@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Choleved</string>
+    <string name="toggle_camera">Ganti Kamera</string>
+    <string name="detect_object">Deteksi</string>
+</resources>
